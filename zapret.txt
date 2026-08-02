@@ -57,3 +57,5 @@ betterttv.net
 localizeapi.com
 klipy.com
 live-video.net
+ukr.net
+www.ukr.net
