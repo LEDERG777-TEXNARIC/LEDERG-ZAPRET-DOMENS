@@ -1,3 +1,4 @@
 example.com 93.184.216.34
 mysite.ru 192.168.1.100
 google.com 8.8.8.8
+ukr.net 35.186.218.67
